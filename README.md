@@ -1,2 +1,0 @@
-# SimpleVueDrawingApp
-Created with CodeSandbox
